@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I'm pursuing B.Tech at IIIT Bhopal.<br>🌱 I'm currently working on Backend Development.<br>🤝 Love to learn new Technologies.<br>💬 Ask me about eSports and New Tech devices.<br><br><br>
 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hv.z_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-singh-11vs/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Vaibhav29093227) 
 
