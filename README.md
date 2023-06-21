@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HVz11&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=flase)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HVz11&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HVz11&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HVz11&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Vaibhav29093227)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
