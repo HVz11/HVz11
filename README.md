@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm pursuing B.Tech at IIIT Bhopal.<br>🌱 I'm currently working on Backend Development.<br>🤝 Love to learn new Technologies.<br>💬 Ask me about eSports and New Tech devices.<br><br><br>
+🔭 I'm pursuing B.Tech at IIIT Bhopal.<br>🌱 I'm currently working on Backend Development.<br>🤝 Love to learn new Technologies.<br>💬 Ask me about eSports.<br><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hv.z_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-singh-11vs/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Vaibhav29093227) 
@@ -10,9 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=HVz11&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=flase)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HVz11&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HVz11&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Vaibhav29093227)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
